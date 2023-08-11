@@ -1,0 +1,17 @@
+.p1{
+    background-color:rgba(231, 129, 192, 1);
+    text-align:center;
+    border-style:dashed;
+}
+.p2{
+    background-color:rgb(66, 83, 231);
+    text-align:center;
+    border-style:dotted;
+}
+.p3{
+    background-color:rgb(79, 180, 130);
+    text-align:center;
+    border-style:solid;
+}
+.head1{
+    font-size:24px;
